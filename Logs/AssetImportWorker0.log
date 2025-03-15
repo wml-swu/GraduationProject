@@ -1,0 +1,331 @@
+Unity Editor version:    2020.3.22f1c1 (9ee66e5289da)
+Branch:                  2020.3/china_unity/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 15.1 (Build 24B83)
+Darwin version:          24.1.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61928
+Successfully changed project path to: /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle
+/Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 105.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.22f1c1 (9ee66e5289da)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Assets
+GfxDevice: creating device client; threaded=0
+2025-03-14 20:03:07.891 Unity[8654:163425] (null) preferred device: Apple M1 Pro (high power)
+2025-03-14 20:03:07.891 Unity[8654:163425] Metal devices available: 1
+2025-03-14 20:03:07.891 Unity[8654:163425] 0: Apple M1 Pro (high power)
+2025-03-14 20:03:07.892 Unity[8654:163425] Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56654
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000949 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 43.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.447 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2448ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1032ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (169ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (531ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (43ms)
+				BeforeProcessingInitializeOnLoad (22ms)
+				ProcessInitializeOnLoadAttributes (324ms)
+				ProcessInitializeOnLoadMethodAttributes (130ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005140 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.282 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2284ms)
+		BeginReloadAssembly (229ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (33ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (1969ms)
+			LoadAssemblies (200ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (294ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (1188ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (118ms)
+				ProcessInitializeOnLoadAttributes (959ms)
+				ProcessInitializeOnLoadMethodAttributes (93ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (32ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.006731 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.002694 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Initializing Unity extensions:
+[C# Project] Writing /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GalaxyBattle.sln because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GalaxyBattle.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EEA1B3A8-39DB-CDCE-7855-BC902B1C6D5C}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds", "GoogleMobileAds.csproj", "{F2C915F0-B3A8-1A24-D685-00BEEEB72A8F}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{9711200A-3614-A881-0B19-CD9E4C0F2AD7}"
+
+[C# Project] New /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GalaxyBattle.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{5AC88B1A-29E4-EF92-642A-FE2828A90C02}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{C6F10C1E-0712-1CAB-F9DD-52311055C8DB}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.XR.LegacyInputHelpers", "UnityEngine.XR.LegacyInputHelpers.csproj", "{03EF6B62-2607-46FC-779B-4489E0A7B1C2}"
+[C# Project] Writing /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Assembly-CSharp.csproj because it has changed
+[C# Project] First difference on line 103
+
+[C# Project] Current /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Assembly-CSharp.csproj:
+[C# Project]   103:  <Reference Include="UnityEngine.ClothModule">
+[C# Project]   104:  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+[C# Project]   105:  </Reference>
+[C# Project]   106:  <Reference Include="UnityEngine.CloudFoundationModule">
+[C# Project]   107:  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CloudFoundationModule.dll</HintPath>
+
+[C# Project] New /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Assembly-CSharp.csproj:
+[C# Project]   103:  <Reference Include="UnityEngine.AutoStreamingModule">
+[C# Project]   104:  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AutoStreamingModule.dll</HintPath>
+[C# Project]   105:  </Reference>
+[C# Project]   106:  <Reference Include="UnityEngine.ClothModule">
+[C# Project]   107:  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+[C# Project] Writing /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GoogleMobileAds.csproj because it has changed
+[C# Project] First difference on line 144
+
+[C# Project] Current /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GoogleMobileAds.csproj:
+[C# Project]   144:  <Reference Include="UnityEngine.ClothModule">
+[C# Project]   145:  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+[C# Project]   146:  </Reference>
+[C# Project]   147:  <Reference Include="UnityEngine.CloudFoundationModule">
+[C# Project]   148:  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CloudFoundationModule.dll</HintPath>
+
+[C# Project] New /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GoogleMobileAds.csproj:
+[C# Project]   144:  <Reference Include="UnityEngine.AutoStreamingModule">
+[C# Project]   145:  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AutoStreamingModule.dll</HintPath>
+[C# Project]   146:  </Reference>
+[C# Project]   147:  <Reference Include="UnityEngine.ClothModule">
+[C# Project]   148:  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+[C# Project] Writing /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GoogleMobileAds.Editor.csproj because it has changed
+[C# Project] First difference on line 290
+
+[C# Project] Current /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GoogleMobileAds.Editor.csproj:
+[C# Project]   290:  <Reference Include="UnityEditor.iOS.Extensions">
+[C# Project]   291:  <HintPath>/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
+[C# Project]   292:  </Reference>
+[C# Project]   293:  <Reference Include="log4netPlastic">
+[C# Project]   294:  <HintPath>/Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+
+[C# Project] New /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/GoogleMobileAds.Editor.csproj:
+[C# Project]   290:  <Reference Include="log4netPlastic">
+[C# Project]   291:  <HintPath>/Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+[C# Project]   292:  </Reference>
+[C# Project]   293:  <Reference Include="Unity.Plastic.Newtonsoft.Json">
+[C# Project]   294:  <HintPath>/Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+[C# Project] Writing /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Assembly-CSharp-Editor-firstpass.csproj because it has changed
+[C# Project] First difference on line 292
+
+[C# Project] Current /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Assembly-CSharp-Editor-firstpass.csproj:
+[C# Project]   292:  <Reference Include="UnityEditor.iOS.Extensions">
+[C# Project]   293:  <HintPath>/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
+[C# Project]   294:  </Reference>
+[C# Project]   295:  <Reference Include="log4netPlastic">
+[C# Project]   296:  <HintPath>/Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+
+[C# Project] New /Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Assembly-CSharp-Editor-firstpass.csproj:
+[C# Project]   292:  <Reference Include="log4netPlastic">
+[C# Project]   293:  <HintPath>/Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+[C# Project]   294:  </Reference>
+[C# Project]   295:  <Reference Include="Unity.Plastic.Newtonsoft.Json">
+[C# Project]   296:  <HintPath>/Users/dadaguaijiangjun/code/GalaxyBattle/GalaxyBattle/Library/PackageCache/com.unity.collab-proxy@1.13.5/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+2025-03-14 20:03:14.449 Unity[8654:163425] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f9c850c6890 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2025-03-14 20:03:14.452 Unity[8654:163425] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f9c851c6b50 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2284 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.3 MB.
+System memory in use after: 114.0 MB.
+
+Unloading 228 unused Assets to reduce memory usage. Loaded Objects now: 2669.
+Total: 5.109375 ms (FindLiveObjects: 0.155625 ms CreateObjectMapping: 0.044250 ms MarkObjects: 4.425500 ms  DeleteObjects: 0.482834 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Galaxy Battle/Animation/Earth-light/run.anim
+  artifactKey: Guid(1a3c79d1bebd6b94088e736ebb198e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Battle/Animation/Earth-light/run.anim using Guid(1a3c79d1bebd6b94088e736ebb198e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.595014 seconds  code(4) message(Build asset version error: assets/galaxy battle/animation/earth-light/run.anim in SourceAssetDB has modification time of '2020-02-02T09:37:22Z' while content on disk has modification time of '2025-03-14T12:01:39Z')
+  ERROR: Build asset version error: assets/galaxy battle/animation/earth-light/run.anim in SourceAssetDB has modification time of '2020-02-02T09:37:22Z' while content on disk has modification time of '2025-03-14T12:01:39Z'
+  Import took 0.599008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002202 seconds.
+  path: Assets/Galaxy Battle/Animation/Title/Text-title.controller
+  artifactKey: Guid(1e9607cf44ffbac47b094d307d706968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Battle/Animation/Title/Text-title.controller using Guid(1e9607cf44ffbac47b094d307d706968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.057174 seconds  code(4) message(Build asset version error: assets/galaxy battle/animation/title/text-title.controller in SourceAssetDB has modification time of '2020-02-02T09:18:34Z' while content on disk has modification time of '2025-03-14T12:01:39Z')
+  ERROR: Build asset version error: assets/galaxy battle/animation/title/text-title.controller in SourceAssetDB has modification time of '2020-02-02T09:18:34Z' while content on disk has modification time of '2025-03-14T12:01:39Z'
+  Import took 0.060224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002258 seconds.
+  path: Assets/Galaxy Battle/Animation/Earth-light/Image.controller
+  artifactKey: Guid(ad5aec4ed8b444140bb3a7efefa7a4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Battle/Animation/Earth-light/Image.controller using Guid(ad5aec4ed8b444140bb3a7efefa7a4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002597 seconds  code(4) message(Build asset version error: assets/galaxy battle/animation/earth-light/image.controller in SourceAssetDB has modification time of '2020-02-02T09:37:22Z' while content on disk has modification time of '2025-03-14T12:01:39Z')
+  ERROR: Build asset version error: assets/galaxy battle/animation/earth-light/image.controller in SourceAssetDB has modification time of '2020-02-02T09:37:22Z' while content on disk has modification time of '2025-03-14T12:01:39Z'
+  Import took 0.005880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.383379 seconds.
+  path: Assets/Galaxy Battle/Fonte
+  artifactKey: Guid(2e331689f5bb79744af3d1e975cfdd1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Battle/Fonte using Guid(2e331689f5bb79744af3d1e975cfdd1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000259 seconds  code(4) message(Build asset version error: assets/galaxy battle/fonte.meta in SourceAssetDB has modification time of '2020-01-26T09:02:20Z' while content on disk has modification time of '2025-03-14T12:01:40Z')
+  ERROR: Build asset version error: assets/galaxy battle/fonte.meta in SourceAssetDB has modification time of '2020-01-26T09:02:20Z' while content on disk has modification time of '2025-03-14T12:01:40Z'
+  Import took 0.003560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.473108 seconds.
+  path: Assets/Galaxy Battle/Prefabs/Enemy6.prefab
+  artifactKey: Guid(2d47614a8b2e77642b83dd475af52aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Battle/Prefabs/Enemy6.prefab using Guid(2d47614a8b2e77642b83dd475af52aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.246192 seconds  code(4) message(Build asset version error: assets/galaxy battle/prefabs/enemy6.prefab in SourceAssetDB has modification time of '2020-01-22T02:42:16Z' while content on disk has modification time of '2025-03-14T12:01:40Z')
+  ERROR: Build asset version error: assets/galaxy battle/prefabs/enemy6.prefab in SourceAssetDB has modification time of '2020-01-22T02:42:16Z' while content on disk has modification time of '2025-03-14T12:01:40Z'
+  Import took 0.250121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.668454 seconds.
+  path: Assets/Galaxy Battle/Prefabs/Enemy8.prefab
+  artifactKey: Guid(bb668063fb814ad4b99bbbcc002e7b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Battle/Prefabs/Enemy8.prefab using Guid(bb668063fb814ad4b99bbbcc002e7b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.018280 seconds  code(4) message(Build asset version error: assets/galaxy battle/prefabs/enemy8.prefab in SourceAssetDB has modification time of '2020-02-03T08:32:46Z' while content on disk has modification time of '2025-03-14T12:01:40Z')
+  ERROR: Build asset version error: assets/galaxy battle/prefabs/enemy8.prefab in SourceAssetDB has modification time of '2020-02-03T08:32:46Z' while content on disk has modification time of '2025-03-14T12:01:40Z'
+  Import took 0.022611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.018079 seconds.
+  path: Assets/Galaxy Battle/Prefabs/Enemybox/Enemybox11.prefab
+  artifactKey: Guid(e0764d75d86ea3748ab584d2057ed407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Battle/Prefabs/Enemybox/Enemybox11.prefab using Guid(e0764d75d86ea3748ab584d2057ed407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.029318 seconds  code(4) message(Build asset version error: assets/galaxy battle/prefabs/enemybox/enemybox11.prefab in SourceAssetDB has modification time of '2020-01-21T07:41:00Z' while content on disk has modification time of '2025-03-14T12:01:40Z')
+  ERROR: Build asset version error: assets/galaxy battle/prefabs/enemybox/enemybox11.prefab in SourceAssetDB has modification time of '2020-01-21T07:41:00Z' while content on disk has modification time of '2025-03-14T12:01:40Z'
+  Import took 0.036004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.499582 seconds.
+  path: Assets/Galaxy Battle/Scenes/PlaySettings.lighting
+  artifactKey: Guid(1a22c342aa6fa904191ceff2bf1ad522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Battle/Scenes/PlaySettings.lighting using Guid(1a22c342aa6fa904191ceff2bf1ad522) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '00000000000000000000000000000000') in 0.063214 seconds  code(4) message(Build asset version error: assets/galaxy battle/scenes/playsettings.lighting in SourceAssetDB has modification time of '2025-03-08T06:18:47Z' while content on disk has modification time of '2025-03-14T12:01:40Z')
+  ERROR: Build asset version error: assets/galaxy battle/scenes/playsettings.lighting in SourceAssetDB has modification time of '2025-03-08T06:18:47Z' while content on disk has modification time of '2025-03-14T12:01:40Z'
+  Import took 0.067470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.261029 seconds.
+  path: Assets/GoogleMobileAds/Api/AdLoader.cs
+  artifactKey: Guid(f5474196001554b6da135319d9475e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Api/AdLoader.cs using Guid(f5474196001554b6da135319d9475e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.145603 seconds  code(4) message(Build asset version error: assets/googlemobileads/api/adloader.cs in SourceAssetDB has modification time of '2020-06-19T17:30:35Z' while content on disk has modification time of '2025-03-14T12:01:40Z')
+  ERROR: Build asset version error: assets/googlemobileads/api/adloader.cs in SourceAssetDB has modification time of '2020-06-19T17:30:35Z' while content on disk has modification time of '2025-03-14T12:01:40Z'
+  Import took 0.149102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.973820 seconds.
+  path: Assets/GoogleMobileAds/Api/BannerView.cs
+  artifactKey: Guid(5c1fdac85e0d64c298684a5ee009e19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Api/BannerView.cs using Guid(5c1fdac85e0d64c298684a5ee009e19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001030 seconds  code(4) message(Build asset version error: assets/googlemobileads/api/bannerview.cs in SourceAssetDB has modification time of '2020-06-19T17:30:35Z' while content on disk has modification time of '2025-03-14T12:01:40Z')
+  ERROR: Build asset version error: assets/googlemobileads/api/bannerview.cs in SourceAssetDB has modification time of '2020-06-19T17:30:35Z' while content on disk has modification time of '2025-03-14T12:01:40Z'
+  Import took 0.004931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.658005 seconds.
+  path: Assets/GoogleMobileAds/Api/Core/AdErrorEventArgs.cs
+  artifactKey: Guid(74f97ea4845754c1894b01dea7febe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMobileAds/Api/Core/AdErrorEventArgs.cs using Guid(74f97ea4845754c1894b01dea7febe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000940 seconds  code(4) message(Build asset version error: assets/googlemobileads/api/core/aderroreventargs.cs in SourceAssetDB has modification time of '2020-06-19T17:30:35Z' while content on disk has modification time of '2025-03-14T12:01:40Z')
+  ERROR: Build asset version error: assets/googlemobileads/api/core/aderroreventargs.cs in SourceAssetDB has modification time of '2020-06-19T17:30:35Z' while content on disk has modification time of '2025-03-14T12:01:40Z'
+  Import took 0.006607 seconds .
+
